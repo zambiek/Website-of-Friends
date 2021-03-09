@@ -1,0 +1,34 @@
+.turtle{
+ display:flex;
+ justify-content:center;
+ padding:5px;
+ margin:10px;
+ border:10px solid;
+ width:230px;
+ margin: 10px auto 20px;
+ display: block;
+ background-color:#66CCFF;
+}
+h1{
+    font-family: 'Merriweather', serif;
+    text-align:center;
+    color:#66CCFF;
+}
+.ex{   
+ border:5px solid; 
+ margin:250px;
+ padding:25px; 
+ 
+}
+.nav{
+	border: 2px solid green;
+     display:flex;
+    justify-content:center;
+}
+div{
+    margin:50px;
+}
+
+.ad{
+   height:5px;
+}
